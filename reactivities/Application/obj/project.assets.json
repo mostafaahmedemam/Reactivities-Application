@@ -1111,25 +1111,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mosta\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\m.emam\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Courses\\New folder\\Reactivities-Application\\reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\m.emam\\Reactivities-Application\\reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\Courses\\New folder\\Reactivities-Application\\reactivities\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-      "outputPath": "D:\\Courses\\New folder\\Reactivities-Application\\reactivities\\Application\\obj\\",
+      "projectPath": "C:\\Users\\m.emam\\Reactivities-Application\\reactivities\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\m.emam\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\m.emam\\Reactivities-Application\\reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\m.emam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1138,17 +1136,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://gis-host:2021/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Courses\\New folder\\Reactivities-Application\\reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Courses\\New folder\\Reactivities-Application\\reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\m.emam\\Reactivities-Application\\reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\m.emam\\Reactivities-Application\\reactivities\\Domain\\Domain.csproj"
             },
-            "D:\\Courses\\New folder\\Reactivities-Application\\reactivities\\Persistance\\Persistance.csproj": {
-              "projectPath": "D:\\Courses\\New folder\\Reactivities-Application\\reactivities\\Persistance\\Persistance.csproj"
+            "C:\\Users\\m.emam\\Reactivities-Application\\reactivities\\Persistance\\Persistance.csproj": {
+              "projectPath": "C:\\Users\\m.emam\\Reactivities-Application\\reactivities\\Persistance\\Persistance.csproj"
             }
           }
         }
@@ -1177,7 +1176,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.106\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
