@@ -123,3 +123,8 @@ D:\Courses\New folder\Reactivities-Application\reactivities\API\bin\Debug\net6.0
 D:\Courses\New folder\Reactivities-Application\reactivities\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 D:\Courses\New folder\Reactivities-Application\reactivities\API\bin\Debug\net6.0\AutoMapper.dll
 D:\Courses\New folder\Reactivities-Application\reactivities\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\m.emam\Reactivities-Application\reactivities\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\m.emam\Reactivities-Application\reactivities\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\m.emam\Reactivities-Application\reactivities\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\m.emam\Reactivities-Application\reactivities\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\m.emam\Reactivities-Application\reactivities\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
