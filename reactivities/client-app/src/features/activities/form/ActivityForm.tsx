@@ -6,9 +6,11 @@ import { Activity } from './../../../models/activity';
 interface Props{
     activity: Activity|undefined;
     closeForm: () => void;
+    CreateOrEdit: (activity:Activity) => void;
+
 }
 
-export default function ActivityForm({activity: selectedActivity,closeForm}:Props){
+export default function ActivityForm({activity: selectedActivity,closeForm,CreateOrEdit}:Props){
     const initialState = selectedActivity ?? {
         id: "",
         title: "",
@@ -20,7 +22,7 @@ export default function ActivityForm({activity: selectedActivity,closeForm}:Prop
     };
     const [activity, setActivity]=useState(initialState);
     function handleSubmit(){
-        console.log(activity);
+        CreateOrEdit(activity);
     }
     function handleInputChange(event:ChangeEvent<HTMLInputElement | HTMLTextAreaElement>){
         const {name,value} = event.target;
@@ -34,7 +36,7 @@ export default function ActivityForm({activity: selectedActivity,closeForm}:Prop
                 <Form.Input placeholder="Categorty" name="category" value={activity.category} onChange={handleInputChange}/>
                 <Form.Input placeholder="Date" name="date" value={activity.date} onChange={handleInputChange}/>
                 <Form.Input placeholder="City" name="city" value={activity.city} onChange={handleInputChange}/>
-                <Form.Input placeholder="Venu" name="venu" value={activity.venue} onChange={handleInputChange}/>
+                <Form.Input placeholder="Venu" name="venue" value={activity.venue} onChange={handleInputChange}/>
                 <Button floated="right" positive type="submit" content="Submit"/>
                 <Button onClick={closeForm} floated="right" type="button" content="Cancel"/>
             </Form>
