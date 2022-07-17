@@ -8,9 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = API
 build_property.RootNamespace = API
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\m.emam\Reactivities-Application\reactivities\API\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = c:\Users\m.emam\Reactivities-Application\reactivities\API
+=======
+build_property.ProjectDir = D:\Courses\New folder\Reactivities-Application\reactivities\API\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Courses\New folder\Reactivities-Application\reactivities\API
+>>>>>>> 47dfc341ca720b521ad4cd955fecb2ef3af6b7d5
 build_property._RazorSourceGeneratorDebug = 
