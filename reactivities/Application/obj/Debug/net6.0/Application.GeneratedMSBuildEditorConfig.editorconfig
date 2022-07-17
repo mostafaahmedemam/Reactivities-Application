@@ -8,7 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Application
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\m.emam\Reactivities-Application\reactivities\Application\
+=======
+build_property.ProjectDir = D:\Courses\New folder\Reactivities-Application\reactivities\Application\
+>>>>>>> 47dfc341ca720b521ad4cd955fecb2ef3af6b7d5
 =======
 build_property.ProjectDir = D:\Courses\New folder\Reactivities-Application\reactivities\Application\
 >>>>>>> 47dfc341ca720b521ad4cd955fecb2ef3af6b7d5
